@@ -1,0 +1,47 @@
+[
+  {
+    "id_Juego": 1,
+    "serial_Number": "1A",
+    "año_Publicacion": 2020,
+    "casa_Fabricante": "CGCGames",
+    "tipoDeJuego": {
+      "1": "Aventura",
+      "2": "RPG",
+      "3": "Misterio"
+    }
+  },
+  {
+    "id_Juego": 2,
+    "serial_Number": "2A",
+    "año_Publicacion": 2021,
+    "casa_Fabricante": "CGCGames",
+    "tipoDeJuego": {
+      "1": "Deporte",
+      "2": "Football",
+      "3": "Accion"
+    }
+  },
+  {
+    "id_Juego": 3,
+    "serial_Number": "3A",
+    "año_Publicacion": 2022,
+    "casa_Fabricante": "CGCGames",
+    "tipoDeJuego": {
+      "1": "Shooter",
+      "2": "Misterio",
+      "3": "Accion"
+    }
+  },
+  {
+    "id_Juego": 4,
+    "serial_Number": "4A",
+    "año_Publicacion": 2023,
+    "casa_Fabricante": "CGCGames",
+    "tipoDeJuego": {
+      "1": "Terror",
+      "2": "Miedo",
+      "3": "Accion"
+    }
+  }
+]
+Response headers
